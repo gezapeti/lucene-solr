@@ -45,7 +45,7 @@
    tools gradleApi()
    tools localGroovy()
 
-//   tools ('org.asciidoctor:asciidoctor-ant')
+   tools ('org.asciidoctor:asciidoctorj:1.6.1')
    tools ('com.vaadin.external.google:android-json')
    tools ('org.jsoup:jsoup')
    tools ('org.apache.pdfbox:pdfbox')
